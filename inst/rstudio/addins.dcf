@@ -1,0 +1,9 @@
+Name: Insert ->
+Description: Inserts `->` at the cursor position.
+Binding: insertRightAssignAddin
+Interactive: false
+
+Name: Insert +
+Description: Inserts `+` at the cursor position.
+Binding: insertPlusEnterAddin
+Interactive: false

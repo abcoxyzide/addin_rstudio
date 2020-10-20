@@ -1,0 +1,13 @@
+Package: keyboardshortcut
+Type: Package
+Title: Facilitate User Defined Keyboard Shortcuts
+Version: 0.1.0
+Author: @abcoxyzide
+Maintainer: No intention to maintain <this_is_a_fake_email_address@gmail.com>
+Description: To define keyboard shortcuts to insert certain texts
+    that I commonly use in RStudio.
+License: No license
+Encoding: UTF-8
+LazyData: true
+Imports: rstudioapi
+RoxygenNote: 7.1.1
