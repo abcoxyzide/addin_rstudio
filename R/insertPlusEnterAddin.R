@@ -5,5 +5,5 @@
 #' @export
 
 insertPlusEnterAddin <- function() {
-    rstudioapi::insertText(" +\n ")
+    rstudioapi::insertText(" +\n\t")
 }
